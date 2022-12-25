@@ -7,7 +7,7 @@ sites:
 
 status-website:
   cname: status.cord.town
-  logoUrl: https://raw.githubusercontent.com/CORDTOWN/status/master/assets/logo_black_trans.png
+  logoUrl: https://raw.githubusercontent.com/CORDTOWN/status/master/assets/logo.png
   name: CORDTOWN Status
   introTitle: "**Upptime** for CORD TOWN"
   introMessage: 안전하고 매력적인 커뮤니티 🏠
