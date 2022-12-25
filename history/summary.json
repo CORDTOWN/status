@@ -1,20 +1,20 @@
 [
   {
-    "name": "오픈예정",
-    "url": "https://go.cord.town/telegram",
-    "icon": "https://icons.duckduckgo.com/ip3/go.cord.town.ico",
-    "slug": "",
+    "name": "tumblr.cord.town",
+    "url": "https://tumblr.cord.town/",
+    "icon": "https://icons.duckduckgo.com/ip3/tumblr.cord.town.ico",
+    "slug": "tumblr-cord-town",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 839,
-    "timeWeek": 839,
-    "timeMonth": 839,
-    "timeYear": 839,
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {}
   }
 ]
