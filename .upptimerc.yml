@@ -2,12 +2,12 @@ owner: CORDTOWN
 repo: status
 
 sites:
-  - name: 오픈예정
-    url: https://go.cord.town/telegram
+  - name: tumblr.cord.town
+    url: https://tumblr.cord.town/
 
 status-website:
   cname: status.cord.town
-  logoUrl: https://raw.githubusercontent.com/CORDTOWN/status/master/assets/logo.png
+  logoUrl: https://raw.githubusercontent.com/CORDTOWN/status/master/assets/logo_text.png
   name: CORDTOWN Status
   introTitle: "**Upptime** for CORD TOWN"
   introMessage: 안전하고 매력적인 커뮤니티 🏠
