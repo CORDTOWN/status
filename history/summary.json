@@ -4,17 +4,17 @@
     "url": "https://tumblr.cord.town/",
     "icon": "https://icons.duckduckgo.com/ip3/tumblr.cord.town.ico",
     "slug": "tumblr-cord-town",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "55.15%",
-    "uptimeWeek": "75.43%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "99.27%",
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "54.40%",
+    "uptimeWeek": "75.34%",
+    "uptimeMonth": "91.18%",
+    "uptimeYear": "99.25%",
     "time": 660,
-    "timeDay": 228,
-    "timeWeek": 322,
-    "timeMonth": 423,
-    "timeYear": 621,
+    "timeDay": 245,
+    "timeWeek": 325,
+    "timeMonth": 422,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-06-25": 33,
       "2025-07-14": 20,
@@ -30,7 +30,7 @@
       "2026-05-26": 304,
       "2026-05-27": 353,
       "2026-05-29": 69,
-      "2026-05-30": 578
+      "2026-05-30": 634
     }
   }
 ]
