@@ -6,14 +6,14 @@
     "slug": "tumblr-cord-town",
     "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "75.40%",
-    "uptimeMonth": "71.88%",
-    "uptimeYear": "93.96%",
+    "uptimeDay": "87.88%",
+    "uptimeWeek": "73.67%",
+    "uptimeMonth": "71.79%",
+    "uptimeYear": "93.93%",
     "time": 436,
     "timeDay": 182,
     "timeWeek": 362,
-    "timeMonth": 345,
+    "timeMonth": 346,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2026-08-24": 534,
@@ -70,7 +70,7 @@
       "2026-10-19": 361,
       "2026-10-20": 338,
       "2026-10-21": 670,
-      "2026-10-24": 0
+      "2026-10-24": 175
     }
   }
 ]
